@@ -35,30 +35,42 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-The tragedy of Albertus VVallenstein late Duke of Fridland, and generall to the Emperor Ferdinand th
+
+1. TO THE GREAT EXAMPLE OF VERTVE AND TRVE MECENAS OF Liberall Arts; Mr. WILLIAM MURREY of his Majesties Bed-chamber.
+
+1. In caedem Alberti VVallenstenii, ducis Fridlandiae. 1634.
+
+1. The Persons.
+
 #####Body#####
 
-1. Scena prima.
+1. Actus primus:
 
-1. Scena tertia, Albertus, Newman.
+    _ Scena prima.
 
-1. Scena prima.
+    _ Scena tertia, Albertus, Newman.
 
-1. Scena secunda, Frederick, Albertus, Newman.
+1. Actus secundus:
 
-1. Scena tertia: Ferdinand, King of Hungary, Gallas, Questenberge.
-〈1… pages missing〉Natures choice pleasures, that same happinesseYou were created for.EmilYou have pr
-1. Scena secunda: Wallenstein, Dutchesse, Newman, Terzki, Kintzki, Illawe.
+    _ Scena prima.
 
-1. Scena tertia: Albertus solus.
-〈1… pages missing〉But ne're aspire your Nuptials.Alber.You're too humble,Impose too meane a value on
-1. Scena secunda: Gordon, Lesle, Butler.
+    _ Scena secunda, Frederick, Albertus, Newman.
 
-1. Scena tertia: Wallenstein solus.
+    _ Scena tertia: Ferdinand, King of Hungary, Gallas, Questenberge.
+〈1… pages missing〉Natures choice pleasures, that same happinesseYou were created for.EmilYou have pr〈1… pages missing〉Natures choice pleasures, that same happinesseYou were created for.EmilYou have pr
+    _ Scena secunda: Wallenstein, Dutchesse, Newman, Terzki, Kintzki, Illawe.
 
-1. Scena prima.
+    _ Scena tertia: Albertus solus.
+〈1… pages missing〉But ne're aspire your Nuptials.Alber.You're too humble,Impose too meane a value on〈1… pages missing〉But ne're aspire your Nuptials.Alber.You're too humble,Impose too meane a value on
+    _ Scena secunda: Gordon, Lesle, Butler.
 
-1. Scena ultima: Wallenstein, Tertzki, Kintzki, Illawe,
+    _ Scena tertia: Wallenstein solus.
+
+1. Actus quintus:
+
+    _ Scena prima.
+
+    _ Scena ultima: Wallenstein, Tertzki, Kintzki, Illawe,
 Newman, Lesle, Butler, Gordon.
 
 **Types of content**
